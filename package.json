@@ -1,0 +1,15 @@
+{
+  "name": "advscript-vscode-example",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "yuyi919",
+  "main": "test.js",
+  "private": true,
+  "scripts": {
+    "test": "advs generate ./example.avs -d out"
+  },
+  "devDependencies": {
+    "@advscript/core": "^0.0.3"
+  }
+}
